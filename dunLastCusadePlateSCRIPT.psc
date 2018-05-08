@@ -37,9 +37,6 @@ auto STATE Active
 
 			IF(!plateSolved)
 				spellDmg.cast(castSource, triggerRef)
-				IF(triggerRef == game.getPlayer())
-					game.getPlayer().damageActorValue("Health", 150.0)
-				ENDIF
 				TriggerSound.play(self)
 			ENDIF
 			

@@ -1,0 +1,1 @@
+Scriptname TheLastCrusadeQuest extends Quest  

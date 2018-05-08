@@ -6,4 +6,10 @@ James Marvin
 Pat Lacher
 John Adams
 
-A game consisting of something, we don't know what yet
+A Skyrim Mod based on Indian Jones and the Last Crusade
+
+- INSTALL - 
+
+Move .pex files into Data/Scripts
+Move .esp into Data/
+Activate LastCrusade.esp in Data Files of Skyrim
